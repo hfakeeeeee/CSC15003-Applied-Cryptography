@@ -1,0 +1,10 @@
+﻿  function.cpp
+D:\Compressed\Mã hóa ứng dụng\W6\20127001_20127188_20127682\CBC_DES\function.cpp(24,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Compressed\Mã hóa ứng dụng\W6\20127001_20127188_20127682\CBC_DES\function.cpp(28,18): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+D:\Compressed\Mã hóa ứng dụng\W6\20127001_20127188_20127682\CBC_DES\function.cpp(82,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Compressed\Mã hóa ứng dụng\W6\20127001_20127188_20127682\CBC_DES\function.cpp(83,32): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Compressed\Mã hóa ứng dụng\W6\20127001_20127188_20127682\CBC_DES\function.cpp(143,11): warning C4244: 'initializing': conversion from 'unsigned long' to 'char', possible loss of data
+D:\Compressed\Mã hóa ứng dụng\W6\20127001_20127188_20127682\CBC_DES\function.cpp(255,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  main.cpp
+  Generating Code...
+  CBC_DES.vcxproj -> D:\Compressed\Mã hóa ứng dụng\W6\20127001_20127188_20127682\x64\Debug\CBC_DES.exe
